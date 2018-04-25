@@ -1,0 +1,5 @@
+I want to see if I create a branch when I am looking at a branch, what will happen.
+
+2 possibilities:
+1) Branch is created based on Branch
+2) Branch is created based on Master
